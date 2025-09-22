@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alper\\Documents\\GitHub\\BlokWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBBE345D-75DB-4608-BE69-94817CA10109}|KayitForm_db\\KayitForm_db.csproj|c:\\users\\alper\\documents\\github\\blokwebapp\\kayitform_db\\yoneticipanel\\adminpanel.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{BBBE345D-75DB-4608-BE69-94817CA10109}|KayitForm_db\\KayitForm_db.csproj|solutionrelative:kayitform_db\\yoneticipanel\\adminpanel.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{201350B9-A078-411A-9980-14362B18A375}|VeriErisimKatmani\\VeriErisimKatmani.csproj|C:\\Users\\alper\\Documents\\GitHub\\BlokWebApp\\verierisimkatmani\\verimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{201350B9-A078-411A-9980-14362B18A375}|VeriErisimKatmani\\VeriErisimKatmani.csproj|solutionrelative:verierisimkatmani\\verimodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{201350B9-A078-411A-9980-14362B18A375}|VeriErisimKatmani\\VeriErisimKatmani.csproj|C:\\Users\\alper\\Documents\\GitHub\\BlokWebApp\\verierisimkatmani\\yonetici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{201350B9-A078-411A-9980-14362B18A375}|VeriErisimKatmani\\VeriErisimKatmani.csproj|solutionrelative:verierisimkatmani\\yonetici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBBE345D-75DB-4608-BE69-94817CA10109}|KayitForm_db\\KayitForm_db.csproj|C:\\Users\\alper\\Documents\\GitHub\\BlokWebApp\\kayitform_db\\yoneticipanel\\assets\\css\\girisstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BBBE345D-75DB-4608-BE69-94817CA10109}|KayitForm_db\\KayitForm_db.csproj|solutionrelative:kayitform_db\\yoneticipanel\\assets\\css\\girisstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{201350B9-A078-411A-9980-14362B18A375}|VeriErisimKatmani\\VeriErisimKatmani.csproj|C:\\Users\\alper\\Documents\\GitHub\\BlokWebApp\\verierisimkatmani\\baglantiyollari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{201350B9-A078-411A-9980-14362B18A375}|VeriErisimKatmani\\VeriErisimKatmani.csproj|solutionrelative:verierisimkatmani\\baglantiyollari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBBE345D-75DB-4608-BE69-94817CA10109}|KayitForm_db\\KayitForm_db.csproj|C:\\Users\\alper\\Documents\\GitHub\\BlokWebApp\\kayitform_db\\yoneticipanel\\adminpanel.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBBE345D-75DB-4608-BE69-94817CA10109}|KayitForm_db\\KayitForm_db.csproj|solutionrelative:kayitform_db\\yoneticipanel\\adminpanel.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Yonetici.cs",
+              "DocumentMoniker": "C:\\Users\\alper\\Documents\\GitHub\\BlokWebApp\\VeriErisimKatmani\\Yonetici.cs",
+              "RelativeDocumentMoniker": "VeriErisimKatmani\\Yonetici.cs",
+              "ToolTip": "C:\\Users\\alper\\Documents\\GitHub\\BlokWebApp\\VeriErisimKatmani\\Yonetici.cs",
+              "RelativeToolTip": "VeriErisimKatmani\\Yonetici.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T11:58:38.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VeriModel.cs",
+              "DocumentMoniker": "C:\\Users\\alper\\Documents\\GitHub\\BlokWebApp\\VeriErisimKatmani\\VeriModel.cs",
+              "RelativeDocumentMoniker": "VeriErisimKatmani\\VeriModel.cs",
+              "ToolTip": "C:\\Users\\alper\\Documents\\GitHub\\BlokWebApp\\VeriErisimKatmani\\VeriModel.cs",
+              "RelativeToolTip": "VeriErisimKatmani\\VeriModel.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAwwDQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T11:58:26.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminPanel.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\alper\\Documents\\GitHub\\BlokWebApp\\KayitForm_db\\YoneticiPanel\\AdminPanel.aspx.cs",
+              "RelativeDocumentMoniker": "KayitForm_db\\YoneticiPanel\\AdminPanel.aspx.cs",
+              "ToolTip": "C:\\Users\\alper\\Documents\\GitHub\\BlokWebApp\\KayitForm_db\\YoneticiPanel\\AdminPanel.aspx.cs",
+              "RelativeToolTip": "KayitForm_db\\YoneticiPanel\\AdminPanel.aspx.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T11:56:44.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GirisStyle.css",
+              "DocumentMoniker": "C:\\Users\\alper\\Documents\\GitHub\\BlokWebApp\\KayitForm_db\\YoneticiPanel\\Assets\\css\\GirisStyle.css",
+              "RelativeDocumentMoniker": "KayitForm_db\\YoneticiPanel\\Assets\\css\\GirisStyle.css",
+              "ToolTip": "C:\\Users\\alper\\Documents\\GitHub\\BlokWebApp\\KayitForm_db\\YoneticiPanel\\Assets\\css\\GirisStyle.css",
+              "RelativeToolTip": "KayitForm_db\\YoneticiPanel\\Assets\\css\\GirisStyle.css",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-09-22T11:53:14.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaglantiYollari.cs",
+              "DocumentMoniker": "C:\\Users\\alper\\Documents\\GitHub\\BlokWebApp\\VeriErisimKatmani\\BaglantiYollari.cs",
+              "RelativeDocumentMoniker": "VeriErisimKatmani\\BaglantiYollari.cs",
+              "ToolTip": "C:\\Users\\alper\\Documents\\GitHub\\BlokWebApp\\VeriErisimKatmani\\BaglantiYollari.cs",
+              "RelativeToolTip": "VeriErisimKatmani\\BaglantiYollari.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T11:51:59.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminPanel.aspx",
+              "DocumentMoniker": "C:\\Users\\alper\\Documents\\GitHub\\BlokWebApp\\KayitForm_db\\YoneticiPanel\\AdminPanel.aspx",
+              "RelativeDocumentMoniker": "KayitForm_db\\YoneticiPanel\\AdminPanel.aspx",
+              "ToolTip": "C:\\Users\\alper\\Documents\\GitHub\\BlokWebApp\\KayitForm_db\\YoneticiPanel\\AdminPanel.aspx",
+              "RelativeToolTip": "KayitForm_db\\YoneticiPanel\\AdminPanel.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-22T11:49:22.155Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

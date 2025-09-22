@@ -67,9 +67,19 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="YoneticiPanel\AdminPanel.aspx" />
     <Content Include="Web.config" />
+    <Content Include="YoneticiPanel\Assets\css\GirisStyle.css" />
+    <Content Include="YoneticiPanel\Assets\resimler\90614.jpg" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="YoneticiPanel\AdminPanel.aspx.cs">
+      <DependentUpon>AdminPanel.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="YoneticiPanel\AdminPanel.aspx.designer.cs">
+      <DependentUpon>AdminPanel.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -81,6 +91,13 @@
       <DependentUpon>Web.config</DependentUpon>
     </None>
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\VeriErisimKatmani\VeriErisimKatmani.csproj">
+      <Project>{201350b9-a078-411a-9980-14362b18a375}</Project>
+      <Name>VeriErisimKatmani</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
